@@ -1,0 +1,5 @@
+{
+  "name": "Number Base Converter",
+  "description": "A web application to convert decimal numbers to binary, octal, and hexadecimal, and vice versa. Users can input a decimal number to see its representation in other bases, or input a number in binary, octal, or hexadecimal to convert it back to decimal.",
+  "requestFramePermissions": []
+}
